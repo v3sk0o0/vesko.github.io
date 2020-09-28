@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/v3sk0o0/vesko.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
