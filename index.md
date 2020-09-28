@@ -1,3 +1,9 @@
+---
+layout: default_avatar
+image: /assets/images/smiley.jpg
+---
+
+
 ## Welcome to GitHub Pages
 
 New text
