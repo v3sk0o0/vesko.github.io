@@ -1,9 +1,3 @@
----
-layout: default
----
-
-
-
 ## Welcome to GitHub Pages
 
 New text
@@ -13,6 +7,8 @@ You can use the [editor on GitHub](https://github.com/v3sk0o0/vesko.github.io/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+nen text
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
